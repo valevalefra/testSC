@@ -5,7 +5,7 @@ jdk:
 addons:
 sonarcloud:
 organization: valevalefra
-token: 273cec5752f7f9d406034cd1c8267bb5a5cc6c8e
+token: 989de2680c99507dca79b5f91e0b817b423ed191
 script:
 - ant build
 - sonar-scanner
